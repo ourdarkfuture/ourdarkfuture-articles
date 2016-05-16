@@ -1,4 +1,4 @@
-![](/beach3.jpg)
+![](beach3.jpg)
 
 It sounds like a dream come true for tourism boards. A potential tourists sees an ad, clicks on a banner, likes a Facebook page, or visits your domain on their mobile device and ends up with a unique ID that can be remotely tracked in the real world once they arrive in your town. Your advertising can be instantly measured and analyzed by looking at when potential tourists saw/visited your ads and website, how frequently, how long, and from where all the way to when they pull up to your physical beach. This is the tech behind [Arrivalist](http://www.arrivalist.com/index.html) which the city of Myrtle Beach has just deployed.
 
