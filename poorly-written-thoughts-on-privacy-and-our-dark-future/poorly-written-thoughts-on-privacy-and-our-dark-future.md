@@ -1,4 +1,4 @@
-![](/cams2.jpg)
+![](cams2.jpg)
 
 I've written this dozens of times. Each time it's been edited, rewritten, edited again, rewritten some more, and ultimately trashed. But here I am, trying again. I've struggled a lot with the tone of this piece trying everything from endless numbers and sources, to swear words, and whatever you can imagine in between. I'm tired of writing this over and over again so here it is, stream of consciousness.
 
