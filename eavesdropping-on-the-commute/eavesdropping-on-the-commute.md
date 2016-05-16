@@ -1,4 +1,4 @@
-![](/train2.jpg)
+![](train2.jpg)
 
 It was 2015 and New Jersey Transit was in panic. Passengers on their light rail line had been hit by rash of phone robberies throughout the previous year. It was a crime wave that needed an equally serious solution. With the generous help of the Department of Homeland Security, NJT was able to install millions of dollars of cctv equipments on their trains ensuring the good people of New Jersey would be safe under the watchful eye of transit police.
 
